@@ -1,1 +1,4 @@
 *.pdf
+fichiers_fournis/*.o
+fichiers_fournis/tst
+fichiers_fournis/shell
